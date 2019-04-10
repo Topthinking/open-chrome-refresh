@@ -1,3 +1,4 @@
+[![NPM version](https://img.shields.io/npm/v/open-chrome-refresh.svg)](https://www.npmjs.com/package/open-chrome-refresh)
 
 ### install
 ```shell
