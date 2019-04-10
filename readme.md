@@ -13,4 +13,4 @@ open('https://github.com/Topthinking/open-chrome-refresh') // refresh!
 ```
 
 ### Gif
-<img src="https://github.com/Topthinking/open-chrome-refresh/blob/master/images/1.gif">
+![ATl8fK.gif](https://s2.ax1x.com/2019/04/10/ATl8fK.gif)
