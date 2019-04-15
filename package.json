@@ -1,7 +1,7 @@
 {
   "name": "open-chrome-refresh",
   "description": "for chrome, open and refresh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "git@github.com:Topthinking/open-chrome-refresh.git",
   "author": "topthinking <topthinking@ximalaya.com>",
