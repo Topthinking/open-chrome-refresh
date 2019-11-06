@@ -7,5 +7,6 @@
  * ```
  */
 declare module 'open-chrome-refresh' {
-  export default function open(url: string): void;
+  function open(url: string): void;
+  export = open;
 }
